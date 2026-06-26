@@ -1,0 +1,73 @@
+home_team,away_team,stage,is_neutral_venue,p_home_win,p_draw,p_away_win,actual_home_score,actual_away_score,status,predicted_outcome
+Mexico,South Africa,Group Stage,False,0.5843429,0.2520039,0.16365322,2.0,0.0,Completed,p_home_win
+South Korea,Czechia,Group Stage,True,0.5247551,0.24191754,0.23332734,2.0,1.0,Completed,p_home_win
+Canada,Bosnia and Herzegovina,Group Stage,False,0.54088044,0.2650782,0.19404137,1.0,1.0,Completed,p_home_win
+USA,Paraguay,Group Stage,False,0.2713696,0.2782728,0.45035753,4.0,1.0,Completed,p_away_win
+Qatar,Switzerland,Group Stage,True,0.2410389,0.26847842,0.49048266,1.0,1.0,Completed,p_away_win
+Brazil,Morocco,Group Stage,True,0.5035466,0.26561818,0.23083523,1.0,1.0,Completed,p_home_win
+Haiti,Scotland,Group Stage,True,0.30510664,0.28354606,0.41134727,0.0,1.0,Completed,p_away_win
+Australia,Türkiye,Group Stage,True,0.57819384,0.25523478,0.16657138,2.0,0.0,Completed,p_home_win
+Germany,Curaçao,Group Stage,True,0.6873302,0.21046792,0.102201924,7.0,1.0,Completed,p_home_win
+Netherlands,Japan,Group Stage,True,0.5104656,0.25210863,0.23742574,2.0,2.0,Completed,p_home_win
+Côte d'Ivoire,Ecuador,Group Stage,True,0.24500799,0.2711452,0.48384687,1.0,0.0,Completed,p_away_win
+Sweden,Tunisia,Group Stage,True,0.50686944,0.2395416,0.25358897,5.0,1.0,Completed,p_home_win
+Spain,Cabo Verde,Group Stage,True,0.8097668,0.14623512,0.04399801,0.0,0.0,Completed,p_home_win
+Belgium,Egypt,Group Stage,True,0.53763366,0.26652095,0.1958453,1.0,1.0,Completed,p_home_win
+Saudi Arabia,Uruguay,Group Stage,True,0.28455207,0.28008866,0.43535927,1.0,1.0,Completed,p_away_win
+IR Iran,New Zealand,Group Stage,True,0.33720583,0.28963652,0.37315762,2.0,2.0,Completed,p_away_win
+France,Senegal,Group Stage,True,0.5579322,0.26038128,0.18168645,3.0,1.0,Completed,p_home_win
+Iraq,Norway,Group Stage,True,0.28296536,0.27836722,0.43866736,1.0,4.0,Completed,p_away_win
+Argentina,Algeria,Group Stage,True,0.63207793,0.23438028,0.13354191,3.0,0.0,Completed,p_home_win
+Austria,Jordan,Group Stage,True,0.51063424,0.26148295,0.22788286,3.0,1.0,Completed,p_home_win
+Portugal,Congo DR,Group Stage,True,0.7117351,0.19994812,0.08831669,1.0,1.0,Completed,p_home_win
+England,Croatia,Group Stage,True,0.50851315,0.25859845,0.23288839,4.0,2.0,Completed,p_home_win
+Ghana,Panama,Group Stage,True,0.29942784,0.2838846,0.41668755,1.0,0.0,Completed,p_away_win
+Uzbekistan,Colombia,Group Stage,True,0.3018551,0.28277358,0.41537136,1.0,3.0,Completed,p_away_win
+Mexico,South Korea,Group Stage,False,0.51748097,0.24503337,0.23748566,1.0,0.0,Completed,p_home_win
+Czechia,South Africa,Group Stage,True,0.4863679,0.2772484,0.23638369,1.0,1.0,Completed,p_home_win
+Canada,Qatar,Group Stage,False,0.6531402,0.22588138,0.12097843,6.0,0.0,Completed,p_home_win
+Switzerland,Bosnia and Herzegovina,Group Stage,True,0.6076348,0.24325226,0.14911291,4.0,1.0,Completed,p_home_win
+Brazil,Haiti,Group Stage,True,0.6824118,0.21272196,0.10486621,3.0,0.0,Completed,p_home_win
+Scotland,Morocco,Group Stage,True,0.3777684,0.27230483,0.34992674,0.0,1.0,Completed,p_home_win
+USA,Australia,Group Stage,False,0.2869336,0.281805,0.43126136,2.0,0.0,Completed,p_away_win
+Türkiye,Paraguay,Group Stage,True,0.2704776,0.27816296,0.45135948,0.0,1.0,Completed,p_away_win
+Germany,Côte d'Ivoire,Group Stage,True,0.6713907,0.21882482,0.109784395,2.0,1.0,Completed,p_home_win
+Ecuador,Curaçao,Group Stage,True,0.7016207,0.20378624,0.09459305,0.0,0.0,Completed,p_home_win
+Netherlands,Sweden,Group Stage,True,0.5934958,0.24908277,0.15742141,5.0,1.0,Completed,p_home_win
+Tunisia,Japan,Group Stage,True,0.30068916,0.28273362,0.41657722,0.0,4.0,Completed,p_away_win
+Belgium,IR Iran,Group Stage,True,0.6323982,0.23531929,0.13228257,0.0,0.0,Completed,p_home_win
+New Zealand,Egypt,Group Stage,True,0.37633058,0.25793117,0.36573827,1.0,3.0,Completed,p_home_win
+Spain,Saudi Arabia,Group Stage,True,0.7696352,0.16978961,0.060575243,4.0,0.0,Completed,p_home_win
+Uruguay,Cabo Verde,Group Stage,True,0.6591578,0.22413187,0.11671036,2.0,2.0,Completed,p_home_win
+France,Iraq,Group Stage,True,0.7088182,0.20036925,0.090812564,3.0,0.0,Completed,p_home_win
+Norway,Senegal,Group Stage,True,0.5036061,0.2614011,0.23499282,3.0,2.0,Completed,p_home_win
+Argentina,Austria,Group Stage,True,0.58966684,0.25029355,0.16003959,2.0,0.0,Completed,p_home_win
+Jordan,Algeria,Group Stage,True,0.35566854,0.2787855,0.36554596,1.0,2.0,Completed,p_away_win
+Portugal,Uzbekistan,Group Stage,True,0.5490654,0.2632219,0.18771264,5.0,0.0,Completed,p_home_win
+Colombia,Congo DR,Group Stage,True,0.7241359,0.19374996,0.08211417,1.0,0.0,Completed,p_home_win
+England,Ghana,Group Stage,True,0.74458385,0.18285479,0.07256142,0.0,0.0,Completed,p_home_win
+Panama,Croatia,Group Stage,True,0.32269385,0.28619918,0.3911069,0.0,1.0,Completed,p_away_win
+Czechia,Mexico,Group Stage,True,0.3282192,0.28954253,0.3822383,0.0,3.0,Completed,p_away_win
+South Africa,South Korea,Group Stage,True,0.30959085,0.28425488,0.4061542,1.0,0.0,Completed,p_away_win
+Switzerland,Canada,Group Stage,True,0.506125,0.2564227,0.23745234,2.0,1.0,Completed,p_home_win
+Bosnia and Herzegovina,Qatar,Group Stage,True,0.5143882,0.2640948,0.22151704,3.0,1.0,Completed,p_home_win
+Scotland,Brazil,Group Stage,True,0.32211524,0.28623566,0.39164904,,,Scheduled,p_away_win
+Morocco,Haiti,Group Stage,True,0.5901651,0.24978238,0.16005245,,,Scheduled,p_home_win
+Türkiye,USA,Group Stage,True,0.45176736,0.22827877,0.3199538,,,Scheduled,p_home_win
+Paraguay,Australia,Group Stage,True,0.5102468,0.24752158,0.24223155,,,Scheduled,p_home_win
+Ecuador,Germany,Group Stage,True,0.51032346,0.2262399,0.26343662,,,Scheduled,p_home_win
+Curaçao,Côte d'Ivoire,Group Stage,True,0.41073254,0.25712967,0.33213782,,,Scheduled,p_home_win
+Tunisia,Netherlands,Group Stage,True,0.28109792,0.27807426,0.4408278,,,Scheduled,p_away_win
+Japan,Sweden,Group Stage,True,0.53393734,0.26745403,0.1986086,,,Scheduled,p_home_win
+New Zealand,Belgium,Group Stage,True,0.28542045,0.2816671,0.4329124,,,Scheduled,p_away_win
+Egypt,IR Iran,Group Stage,True,0.50872266,0.2616557,0.22962174,,,Scheduled,p_home_win
+Uruguay,Spain,Group Stage,True,0.29895616,0.28166488,0.41937894,,,Scheduled,p_away_win
+Cabo Verde,Saudi Arabia,Group Stage,True,0.32986894,0.28999385,0.38013718,,,Scheduled,p_away_win
+Norway,France,Group Stage,True,0.328393,0.28798583,0.38362122,,,Scheduled,p_away_win
+Senegal,Iraq,Group Stage,True,0.5358318,0.26692364,0.19724448,,,Scheduled,p_home_win
+Jordan,Argentina,Group Stage,True,0.25939798,0.272368,0.46823394,,,Scheduled,p_away_win
+Algeria,Austria,Group Stage,True,0.36761135,0.2774353,0.35495335,,,Scheduled,p_home_win
+Colombia,Portugal,Group Stage,True,0.5084776,0.22613351,0.2653888,,,Scheduled,p_home_win
+Congo DR,Uzbekistan,Group Stage,True,0.29677594,0.28394246,0.4192816,,,Scheduled,p_away_win
+Panama,England,Group Stage,True,0.29477167,0.2808554,0.42437294,,,Scheduled,p_away_win
+Croatia,Ghana,Group Stage,True,0.6811897,0.21392034,0.10489002,,,Scheduled,p_home_win
